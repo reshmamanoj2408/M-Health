@@ -1,0 +1,84 @@
+I have problems at my workplace.
+
+	Select yes for do you face low energy levels after a day at work?
+Select “5” for how much has your sleeping habits changed since you have started working here?
+Select “3” for how much has your appetite changed since you have started working here?
+Select “3” for how moody are you at work?
+Select “5” for how much has your relationship due to work?
+Select “3” for how much has your external factors suffered because of work?
+
+Expect to see a final score of 3.8 
+
+
+Select “yes” for do you worry about finance?”.
+Select ”5” for “how much are you not satisfied with your salary?”
+Select “5” for “how much are you worried for losing your job?”
+Select “3” for “how upset are you during your payday?”
+Select “3” for "How much are you feeling uncomfortable about letting other people know your salary?",
+Select “3” for "How much do you worry about meeting your expenses with your income?”
+
+Expect to see a final score of 3.8
+
+
+Select “yes” for “Do you feel confident at work?"
+  Select “3” for "How much do you feel uncomfortable with your bosses and colleagues?",
+  Select “5” for "How much do you see yourself as an incapable person?",
+  Select “5” for "How much do you struggle on completing tasks of your work?",
+  Select “3” for "How often do you work under pressure?",
+  Select “5” for "How will you rate your mental state at work?
+ 
+ Expect to see a score of 4.2.
+
+
+   I have problems in school.
+
+Select yes for "Are you not willing to go to school?"
+
+        Select “5” for "How much do you feel uncomfortable in class? ",
+        Select “3” for "How much do you feel unable to cope up with the subjects?",
+        Select “3” for "How difficult are you when you are facing the faculty?"
+
+Expect to see a final score of 3.6.
+
+	Select “yes” for “Are you not happy with your grades?”
+
+       Select “5” for "How often do you feel frustrated after receiving your grades? ",
+       Select “5” for "How much are the external factors affecting your grades? ",
+       Select “3” for "How much do you feel your grade does not reflect the effort you put in studying?",
+        Select “5” "How much scared are you for exams overnight?”
+
+      Expect to see a final score of 4.5
+
+
+Select “yes” for "Do you face bullying at school?"
+    Select “5” for "Rate the severity of bullying you are facing",
+    Select “5” for "How much traumatized are you after bullying ?"
+
+    Expect to see a final score of 5
+
+ I have problems with personal relationship
+	    
+Select “yes” for "Do you have any issues with your family?"
+      Select “5” for "How much is your family issue affecting your mental health?",
+      Select “3” for ”How much do you feel disconnected with your family?",
+      Select “3” for "How much do you think your family is not supporting your career/hobbies?",
+      Select “5” for  "How much pressure are you facing from your family?”
+
+      Expect to see a final score of 4
+
+
+	   Select “yes” for  "Are you facing any problems in love?"
+   
+       Select “5” for "How much do you feel disconnected between you and your partner?",
+       Select “5” for "How much do you feel your partner doesn't understand you?"
+      Expect to see a final score of 5
+
+
+Select “yes” for "Do you face any difficulties in expressing your opinions?"
+       Select “5” for "How often do you feel like accepting the opponent’s view?",
+       Select “5” for "How much do you feel having trouble talking to people?",
+       Select “5” for "How much are you scared of being hated by others?",
+      Select “5” for "Rate the degree of trouble you have maintaining a good relationship with others."
+
+      Expect to see a final score of 5
+
